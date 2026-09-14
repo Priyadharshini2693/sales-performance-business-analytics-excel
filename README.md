@@ -1,5 +1,7 @@
 # Sales Performance & Business Analytics Dashboard | Excel
 
+![Sales Dashboard](Sales_Dashboard.png)
+
 ## Project Overview
 
 An interactive sales analytics dashboard developed using Microsoft Excel to analyze sales performance, profitability, product performance, customer performance, and regional trends.
